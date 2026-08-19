@@ -14,3 +14,13 @@ I will be creating this project without complete vibe coding to learn about pyth
 ```python
 client = UpayaClient(api_key="YOUR_API_KEY")
 ```
+
+## Dev setup
+
+I've used [Python Poetry](https://python-poetry.org/) for package management. It's a really good tool.
+
+### Using Python Poetry
+
+- Install Python Poetry using their [docs](https://python-poetry.org/docs/#installing-with-the-official-installer).
+
+I will add more steps later on.
